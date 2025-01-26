@@ -5,4 +5,4 @@
 [Урок 2 - 1. Повідомлення](https://learningapps.org/watch?v=p3podf4ec19) | [Урок 2 - 2. Подання повідомлень](https://learningapps.org/watch?v=pzrkzj3ac)
 
 
-[Алгиритми](https://samouchka.com.ua/ukr/_informatyka/010/)
+[Алгоритми 1](https://samouchka.com.ua/ukr/_informatyka/010/) | [Алгоритми 2](https://samouchka.com.ua/ukr/_informatyka/011/)
