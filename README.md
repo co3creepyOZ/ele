@@ -6,3 +6,5 @@
 
 
 [Алгоритми 1](https://samouchka.com.ua/ukr/_informatyka/010/) | [Алгоритми 2](https://samouchka.com.ua/ukr/_informatyka/011/)
+
+[type](https://www.typingstudy.com/uk/)
